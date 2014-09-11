@@ -1,9 +1,9 @@
-|     Project | Information                                                                          |
-|------------:|:-------------------------------------------------------------------------------------|
-| Domain:     | Coding Dojo (cd)
-| Topic:      | Ruby on Rails (ror), Understanding Rails - Models (02model)
-| Assignment: | Users (01users)
-| Repository: | cd-ror-02model-01users
+|     Project | Information                                                  |
+|------------:|:-------------------------------------------------------------|
+| Domain:     | [Coding Dojo](http://codingdojo.com) (cd)                    |                  
+| Topic:      | Ruby on Rails (ror), Understanding Rails - Models (02model)  |
+| Assignment: | Users (01users)                                              |
+| Repository: | cd-ror-02model-01users                                       |
 
 ~~~
 
